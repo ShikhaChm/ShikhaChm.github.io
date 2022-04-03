@@ -1,2 +1,0 @@
-# AyurPure-Smoothie-Bar-website
- 
