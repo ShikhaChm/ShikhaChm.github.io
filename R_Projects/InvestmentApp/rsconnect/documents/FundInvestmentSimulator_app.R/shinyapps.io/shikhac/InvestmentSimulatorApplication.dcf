@@ -1,0 +1,13 @@
+name: InvestmentSimulatorApplication
+title: InvestmentSimulatorApplication
+username:
+account: shikhac
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5992849
+bundleId: 5754946
+url: https://shikhac.shinyapps.io/InvestmentSimulatorApplication/
+when: 1648833791.87773
+lastSyncTime: 1648833791.87972
+asMultiple: FALSE
+asStatic: FALSE
