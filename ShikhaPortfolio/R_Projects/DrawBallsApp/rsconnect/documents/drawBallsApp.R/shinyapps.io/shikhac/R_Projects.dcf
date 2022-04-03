@@ -1,0 +1,13 @@
+name: R_Projects
+title: R_Projects
+username:
+account: shikhac
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5920631
+bundleId: 5719148
+url: https://shikhac.shinyapps.io/R_Projects/
+when: 1648064487.16448
+lastSyncTime: 1648064487.16448
+asMultiple: FALSE
+asStatic: FALSE
